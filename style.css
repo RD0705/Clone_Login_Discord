@@ -9,7 +9,7 @@
 
 
 body{
-    background-image: url(/imagens/bg.png);
+    background-image: url(imagens/bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
